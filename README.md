@@ -12,8 +12,8 @@
 
 ## 🧭 About Me
 
-- 🎓 PhD student at the **Chinese Academy of Sciences**
-- 🏫 Previously studied at **Wuhan University**
+- <img src="https://www.cas.cn/zz/yk/201410/W020141016582676725624.jpg" height="21" align="center" alt="CAS Logo" /> &nbsp;PhD student at the **Chinese Academy of Sciences**
+- <img src="https://www.whu.edu.cn/__local/E/EA/D6/D007F1FEAD3CBA8EE4667228D78_778EF543_153C9.png?e=.png" height="21" align="center" alt="Wuhan University Logo" /> &nbsp;Previously studied at **Wuhan University**
 - 🛰️ Interested in **Intelligent Agents and Aerospace Embodied AI**
 - 🤖 Currently exploring **AI Agents and Reinforcement Learning**
 - 🔭 Building intelligent systems that connect spatial data with decision-making
