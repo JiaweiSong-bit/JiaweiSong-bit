@@ -11,9 +11,16 @@
 ---
 
 ## 🧭 About Me
-
+<p>
+-  <sub><img src="W020141016582676725624.jpg?width=64" width="22" alt="CAS"></sub>
+  &nbsp;PhD student at the <strong>Chinese Academy of Sciences</strong>
+  <br><br>
+-  &nbsp;PhD student at the <strong>Chinese Academy of Sciences</strong>
+  <sub><img src="https://www.urongda.com/images/normal/medium/wuhan-university-logo-1024px.png" width="22" alt="WHU"></sub>
+  &nbsp;Previously studied at <strong>Wuhan University</strong>
+</p>
 - <img src="W020141016582676725624.jpg" height="21" align="center" alt="CAS Logo" /> &nbsp;PhD student at the **Chinese Academy of Sciences**
-- <img src="D007F1FEAD3CBA8EE4667228D78_778EF543_153C9.png?e=.png" height="21" align="center" alt="Wuhan University Logo" /> &nbsp;Previously studied at **Wuhan University**
+- <img src="68747470733a2f2f7777772e75726f6e6764612e636f6d2f696d616765732f6e6f726d616c2f6d656469756d2f777568616e2d756e69766572736974792d6c6f676f2d3130323470782e706e67.png" height="21" align="center" alt="Wuhan University Logo" /> &nbsp;Previously studied at **Wuhan University**
 - 🛰️ Interested in **Intelligent Agents and Aerospace Embodied AI**
 - 🤖 Currently exploring **AI Agents and Reinforcement Learning**
 - 🔭 Building intelligent systems that connect spatial data with decision-making
