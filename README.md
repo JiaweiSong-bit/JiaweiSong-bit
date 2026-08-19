@@ -13,7 +13,7 @@
 ## 🧭 About Me
 
 - <img src="W020141016582676725624.jpg" width="18" height="18" alt="CAS"> PhD student at the **Chinese Academy of Sciences**
-- <img src="68747470733a2f2f7777772e75726f6e6764612e636f6d2f696d616765732f6e6f726d616c2f6d656469756d2f777568616e2d756e69766572736974792d6c6f676f2d3130323470782e706e67.png" width="18" height="18" alt="WHU"> Previously studied at **Wuhan University**
+- <img src="68747470733a2f2f7777772e75726f6e6764612e636f6d2f696d616765732f6e6f726d616c2f6d656469756d2f777568616e2d756e69766572736974792d6c6f676f2d3130323470782e706e67.png" width="18" height="18" alt="WHU"> Previously studied at **School of Remote Sensing and Information Engineering, Wuhan University**
 - 🛰️ Interested in **Intelligent Agents and Aerospace Embodied AI**
 - 🤖 Currently exploring **AI Agents and Reinforcement Learning**
 - 🔭 Building intelligent systems that connect spatial data with decision-making
